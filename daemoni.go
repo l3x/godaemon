@@ -13,7 +13,6 @@ import (
 	"syscall"
 	"time"
 	"log"
-	"path"
 )
 
 // Name of environment variable used to distinguish
