@@ -17,7 +17,7 @@ import (
 
 // Name of environment variable used to distinguish
 // parent and daemonized processes.
-var EnvVarName = "_DAEMONIGO"
+var EnvVarName = "_GODAEMON"
 
 // Value of environment variable used to distinguish
 // parent and daemonized processes.

@@ -7,22 +7,9 @@ applications.
 
 ## Installing
 
-    $ go get github.com/tyranron/daemonigo
+    $ go get github.com/l3x/godaemon
 
 After this command *daemonigo* is ready to use.
-
-
-## Usage
-Usage examples you can see in `examples/` repository directory.
-
-
-## Documentation
-
-See http://godoc.org/github.com/tyranron/daemonigo
-
-Or run:
-
-    $ godoc github.com/tyranron/daemonigo
 
 
 ## License
